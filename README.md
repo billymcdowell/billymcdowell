@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Billy McDowell</h1>
+<h1 align="center">Hi 👋, I'm Billy McDowell 🍻</h1>
 <h3 align="center">A passionate UX/UI Designer & frontend developer from London</h3>
 
 - 👨‍💻 All of my projects are available at [https://frontendbilly.netlify.app/](https://frontendbilly.netlify.app/)
